@@ -31,3 +31,7 @@ Here are a few examples of ridiculous Google searches:
 ## Contributing
 
 If you have come across any ridiculous Google searches that you think should be included in this repository, feel free to contribute! You can do this by submitting a pull request with your suggested additions.
+
+
+### Cloudfare deployment link
+https://asap-29x.pages.dev/
